@@ -57,3 +57,4 @@ build/
 !**/src/test/**/build/
 
 src/main/resources/application.properties
+application-local.yml
